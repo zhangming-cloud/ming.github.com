@@ -22,7 +22,7 @@
 
 - 1959年9月，中国第一台大型通用电子管计算机（104计算机）研制成功
 
-  ![2](https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/2.png)
+  ![2](https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/2.png?raw=true)
 
   
 
