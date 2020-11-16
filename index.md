@@ -20,13 +20,17 @@
 
 - 1958年8月，中国第一台小型电子管数字计算机（103计算机）研制成功。
 
-- 1959年9月，中国第一台大型通用电子管计算机（104计算机）研制成功
+- 1959年9月，中国第一台大型通用电子管计算机（104计算机）研制成功。
 
-  ![2](https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/2.png?raw=true)
+  
+
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/2.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为103计算机</div> </center>
 
   
 
   
-
+  
+  
+  
   
 
