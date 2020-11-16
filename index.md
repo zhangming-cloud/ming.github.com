@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 中国计算机发展史
 
-You can use the [editor on GitHub](https://github.com/zhangming-cloud/ming.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 1. 概述
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+中国的计算机产业在20世纪50年代中期开始发展，相对于国外大概晚了10年，在计算机的发展过程中，中国的科研人员经历了艰苦卓绝的奋斗。
 
-### Markdown
+## 2.计算机系统发展
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2.1  1952-1956
 
-```markdown
-Syntax highlighted code block
+- 1952年全国院系调整时候，华罗庚在中科院数学研究所内建立了第一个电子计算机科研小组，由此开始了计算机技术的探索
+- 1953年四月，中科院计算机科研小组提出了制造一台电子管串行计算机的设想
+- 195312月，小组开始了任务设计工作，夏培肃完成了中国第一台电子计算机运算器和控制器，并且编写了第一本电子计算机原理讲义。
+- 1956年，政府决定把计算机纳入科学发展长期规划当中
+- 1956年6月中科院计算技术研究所筹备委员会成立，委员会确立了“先仿制，后自行设计的原则，建立了中国自己的计算机科研队伍。
 
-# Header 1
-## Header 2
-### Header 3
+### 2.2  1957-1961
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangming-cloud/ming.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 1958年8月，中国第一台小型电子管数字计算机（103计算机）研制成功。
+- 1959年9月，中国第一台大型通用电子管计算机（104计算机）研制成功
