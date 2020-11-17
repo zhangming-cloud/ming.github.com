@@ -26,11 +26,75 @@
 
   <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/2.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为103计算机</div> </center>
 
-  
+### 2.3 1962-1966
+
++ 1962年5月，解放军军事工程学院解决了晶体管性能不稳问题，为当时的晶体管计算机研制提供了条件
++ 1964年11月，哈军工研制成功了*441-B机*， 是用用国产半导体元器件 研制成功的中国第一台晶体管通用电子计算机。
+
+<center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/3.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为441-B机</div> </center>
+
++ 1965年6月，中科院成功研制了109乙晶体管大型通用数字计算机，运算速度达到定点计算9万次/s，浮点计算6万次/s。
+
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/4.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为109乙机</div> </center>
 
   
+
+### 2.4 1967-1971
+
++ 1968年7月至1971年5月中科院计算所研制成功中国第一台小规模集成电路通用数字电子计算机111机
+
   
-  
-  
-  
+
+### 2.5 1972-1976
+
++ 1973年1月第四机械工业部在北京召开了”电子计算机首次专业会议“即7301会议，确定了把发展系列机作为当前发展方向。
+
++ 1973年8月26日，中国研究成功百万次电子数字计算机*DJS-11机* ，该机采用集成电路器件，为中国石油勘探，气象预报等领域做出了重要贡献。 
+
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/5.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为DJS-111机</div> </center>
+
++ 1974年8月，DJS-130 小型多功能 计算机分别在北京、天津通过鉴定，中 国DJS-100系列机由此诞生。
++ 1975年，南京大学还研制了相应的*DJS-200/XTI* 操作系统的时候，是中国最早可以使用的较为完备的操作系统。
+
+### 2.6 1977-1981
+
++ 1977年到80年代初期，中国陆续成功研制了*DJS-051*，*052* ，*053*，*054*，*055* 微型机，以及*060*，*062*，*063*微型机。
+
+### 2.7 1982-1986
+
++ 1983年中科院计算所完成了大型向量机——*757机* 计算速度达到每秒1000万次。
+
++ 1983年国防科大研制成功“银河一号”巨型计算机，运算速度高达1亿次/s。
+
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/6.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为银河一号</div> </center>
+
++ 1985年7月，中科院计算所研制成功联想式汉字微型机LX-PC系统。
+
+### 2.8 1987-1991
+
++ 1987 年国家信息中心成立，该中 心设置了数据库部，把数据库建设作为信息系统建设的核心技术。
+
+### 2.9 1992-1996
+
++ 1992年国防科大研究成功银河\-II通用并行巨型机，峰值速度达每秒4亿次浮点运算。
++ 1993年国家智能计算机研究开发中心研制成功曙光一号全对称共享存储多处理机。
++ 1995 年，国家智能机中心又推出了国内第一台具有大规模并行处理机（MPP）结构的并行机曙光 1000。
+
+### 2.10 1997-2001
+
++ 1999 年，中国加快了用于学术或试验目的的网络建设与互联的进程，建成了中国第一个基于密集波分多路复 用DWDM光传输技术的下一代高速互 联研究试验网络（NSFCNET），在国内建成了 IPv6 试验网络，并与国际 IPv6试验网成功连接。
+
+### 2.11 2002-2006
+
++ 2003 年，国务院批准关于 IPv6 的中国国家战略项目“中国下一代互联网示范项目CNGI。
++ 2004年12月25日，CERNET2主干网正式开通，成为中国最早的 IPv6主干网，也是世界上规模最大的纯IPv6网。
++ 2006 年，国防科技大学研制成功银河玉衡YH9200IPV6路由器。2 个路由器均实现了交换能力超过每秒千亿位的性能。
+
+### 2.12 2007-2011
+
++ 2009 年，华为和国内运营商共同完成的 2 个互联网基础路由领域 RFC（Request For Comments）标 准—— RFC5316和RFC5392，这2个标准在全球范围内获得了重要认可。
+
+
+
+
 
