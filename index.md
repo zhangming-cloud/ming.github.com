@@ -16,7 +16,7 @@
 
 - 195312月，小组开始了任务设计工作，夏培肃完成了中国第一台电子计算机运算器和控制器，并且编写了第一本电子计算机原理讲义。
 
-  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/7.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为夏培肃</div> </center>
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="http://p1.music.126.net/rRCMXwsP8Ug28k8Pqb-rUg==/109951165483093176.jpg?param=525x10000">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为夏培肃</div> </center>
 
 - 1956年，政府决定把计算机纳入科学发展长期规划当中
 
@@ -30,18 +30,18 @@
 
   
 
-  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/2.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为103计算机</div> </center>
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="http://p1.music.126.net/NCvtcuz3bVS80Y_9Y1tdoA==/109951165483094155.jpg?param=525x10000">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为103计算机</div> </center>
 
 ### 2.3 1962-1966
 
 + 1962年5月，解放军军事工程学院解决了晶体管性能不稳问题，为当时的晶体管计算机研制提供了条件
 + 1964年11月，哈军工研制成功了*441-B机*， 是用用国产半导体元器件 研制成功的中国第一台晶体管通用电子计算机。
 
-<center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/3.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为441-B机</div> </center>
+<center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="http://p1.music.126.net/0ByGmUcDP4iLHZANIOIRDQ==/109951165483087742.jpg?param=525x10000">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为441-B机</div> </center>
 
 + 1965年6月，中科院成功研制了109乙晶体管大型通用数字计算机，运算速度达到定点计算9万次/s，浮点计算6万次/s。
 
-  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/4.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为109乙机</div> </center>
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="http://p1.music.126.net/s9wHdIuLndnpRDdvuJ4gUQ==/109951165483088748.jpg?param=525x10000">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为109乙机</div> </center>
 
   
 
@@ -57,7 +57,7 @@
 
 + 1973年8月26日，中国研究成功百万次电子数字计算机*DJS-11机* ，该机采用集成电路器件，为中国石油勘探，气象预报等领域做出了重要贡献。 
 
-  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/5.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为DJS-111机</div> </center>
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="http://p1.music.126.net/bZxiORyDErNqwDaFyMeUmw==/109951165483096100.jpg?param=525x10000">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为DJS-111机</div> </center>
 
 + 1974年8月，DJS-130 小型多功能 计算机分别在北京、天津通过鉴定，中 国DJS-100系列机由此诞生。
 + 1975年，南京大学还研制了相应的*DJS-200/XTI* 操作系统的时候，是中国最早可以使用的较为完备的操作系统。
@@ -72,7 +72,7 @@
 
 + 1983年国防科大研制成功“银河一号”巨型计算机，运算速度高达1亿次/s。
 
-  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="https://github.com/zhangming-cloud/ming.github.com/blob/gh-pages/picture/6.png?raw=true">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为银河一号</div> </center>
+  <center>     <img style="border-radius: 0.3125em;     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"      src="http://p1.music.126.net/s9y8weT1jAaeF9eWVnGRMw==/109951165483089700.jpg?param=525x10000">     <br>     <div style="color:orange; border-bottom: 1px solid #d9d9d9;     display: inline-block;     color: #999;     padding: 2px;">图为银河一号</div> </center>
 
   
 
